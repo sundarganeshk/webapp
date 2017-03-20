@@ -1,0 +1,18 @@
+{
+  "name": "imad-app-v2-master",
+  "version": "1.0.0",
+  "description": "IMAD V2 course application.",
+  "main": "server.js",
+  "dependencies": {
+    "pg-pool": "^1.6.0",
+    "pg-promise": "^5.6.4"
+	"pg": "^6.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
